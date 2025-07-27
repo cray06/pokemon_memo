@@ -46,7 +46,7 @@ npm install
 npm run dev
 ```
 
-4. Open [http://localhost:3000](http://localhost:3000) in your browser
+4. Open [http://localhost:3000](http://localhost:3000) in your browser or test it onlie : [pokemon-memo](https://pokemon-memo.vercel.app/)
 
 ### Available Scripts
 
