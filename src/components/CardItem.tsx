@@ -51,9 +51,9 @@ export default function CardItem({ item, index, isFlipped, isMatched, isIncorrec
                         <Image
                             src={item.image}
                             alt={item.name}
-                            width={40}
-                            height={40}
-                            className='w-6 h-6 sm:w-8 sm:h-8 md:w-10 md:h-10'
+                            width={100}
+                            height={100}
+                            className='w-16 h-16 sm:w-16 sm:h-16 md:w-18 md:h-18 max-w-[100px] max-h-[100px]'
                         />
                         <p className='text-xs sm:text-sm font-semibold text-center px-1 capitalize'>{item.name}</p>
                     </div>
